@@ -1,0 +1,310 @@
+Air Force
+Akron
+Alabama
+Alabama-Birmingham
+Alameda Coast Guard
+Alcorn State
+Amarillo Field
+Amherst
+Appalachian State
+Arizona
+Arizona State
+Arkansas
+Arkansas State
+Army
+Auburn
+Ball State
+Bates
+Baylor
+Beloit
+Birmingham-Southern
+School
+Boise State
+Boston College
+Boston University
+Bowdoin
+Bowling Green State
+Bradley
+Brigham Young
+Brown
+Bucknell
+Buffalo
+Butler
+Cal State Fullerton
+Cal State Los Angeles
+California
+California-Santa Barbara
+Camp Grant
+Carlisle
+Carnegie Mellon
+Centenary (LA)
+Central Florida
+School
+Central Michigan
+Centre
+Charlotte
+Chattanooga
+Chicago
+Cincinnati
+Citadel
+Clemson
+Coast Guard
+Coe
+Colby
+Colgate
+Colorado
+Colorado College
+Colorado Mines
+Colorado State
+Columbia
+Connecticut
+Cornell
+Cornell College
+School
+Creighton
+Cumberland
+Dartmouth
+Davidson
+Dayton
+Del Monte Pre-Flight
+Denver
+Detroit Mercy
+Dickinson
+Drake
+Drury
+Duke
+Duquesne
+East Carolina
+East Tennessee State
+Eastern Michigan
+Erskine
+Florida
+Florida A&M
+Florida Atlantic
+School
+Florida International
+Florida State
+Fordham
+Fort Benning
+Fort Riley
+Fort Warren
+Franklin & Marshall
+Fresno State
+Furman
+George Washington
+Georgetown
+Georgia
+Georgia Pre-Flight
+Georgia Southern
+Georgia State
+Georgia Tech
+Gonzaga
+Grambling State
+Great Lakes Navy
+Grinnell
+School
+Hamilton
+Hampden-Sydney
+Hardin-Simmons
+Harvard
+Haskell
+Haverford
+Hawaii
+Holy Cross
+Houston
+Idaho
+Idaho State
+Illinois
+Illinois State
+Indiana
+Indiana State
+Iowa
+Iowa Pre-Flight
+Iowa State
+Jackson State
+Jacksonville Naval Air Station
+School
+Kansas
+Kansas State
+Kent State
+Kentucky
+Knox
+Lafayette
+Lake Forest
+Lamar
+Lawrence
+Lehigh
+Lombard
+Long Beach State
+Louisiana State
+Louisiana Tech
+Louisiana-Lafayette
+Louisiana-Monroe
+Louisville
+Loyola (LA)
+Loyola Marymount
+Lubbock Field
+School
+Maine
+Manhattan
+March Field
+Mare Island Marines
+Marquette
+Marshall
+Maryland
+Maryville (TN)
+Massachusetts
+McNeese State
+Memphis
+Mercer
+Merchant Marine
+Miami (FL)
+Miami (OH)
+Michigan
+Michigan State
+Middle Tennessee State
+Millsaps
+Minnesota
+School
+Mississippi
+Mississippi College
+Mississippi State
+Mississippi Valley State
+Missouri
+MIT
+Montana
+Montana State
+Nashville
+Navy
+Nebraska
+Nevada
+Nevada-Las Vegas
+New Hampshire
+New Mexico
+New Mexico State
+New York University
+Newberry
+Norman Naval Air Station
+North Carolina
+School
+North Carolina Pre-Flight
+North Carolina State
+North Texas
+Northern Arizona
+Northern Colorado
+Northern Illinois
+Northwestern
+Northwestern State
+Notre Dame
+Oglethorpe
+Ohio
+Ohio State
+Oklahoma
+Oklahoma State
+Old Dominion
+Oregon
+Oregon State
+Pacific
+Penn State
+Pennsylvania
+School
+Phillips
+Pittsburgh
+Portland
+Prairie View A&M
+Presbyterian
+Princeton
+Purdue
+Quantico Marines
+Randolph Field
+Regis (CO)
+Rhodes
+Rice
+Richmond
+Rutgers
+Saint Louis
+Saint Mary's (CA)
+Saint Mary's (CA) Pre-Flight
+Samford
+San Diego State
+San Francisco
+School
+San Jose State
+Santa Clara
+Second Air Force
+Sewanee
+Simpson
+South Alabama
+South Carolina
+South Florida
+Southern
+Southern California
+Southern Illinois
+Southern Methodist
+Southern Mississippi
+Southwestern (TX)
+Spring Hill
+Springfield
+Stanford
+Stevens
+Swarthmore
+Syracuse
+School
+Tampa
+Temple
+Tennessee
+Tennessee Medical College
+Tennessee State
+Texas
+Texas A&M
+Texas Christian
+Texas Southern
+Texas State
+Texas Tech
+Texas-Arlington
+Texas-El Paso
+Texas-San Antonio
+Toledo
+Trinity (CT)
+Troy
+Tufts
+Tulane
+Tulsa
+School
+UCLA
+Union (NY)
+Utah
+Utah State
+Vanderbilt
+Vermont
+Villanova
+Virginia
+Virginia Military Institute
+Virginia Tech
+Wabash
+Wake Forest
+Washburn
+Washington
+Washington & Jefferson
+Washington & Lee
+Washington (MO)
+Washington State
+Wesleyan (CT)
+West Texas A&M
+School
+West Virginia
+West Virginia Wesleyan
+Western Carolina
+Western Kentucky
+Western Michigan
+Western State
+Whitman
+Wichita State
+William & Mary
+Williams
+Wisconsin
+Wofford
+WPI
+Wyoming
+Xavier
+Yale
